@@ -1,5 +1,5 @@
-![alt text](https://www.4builders.net/wp-content/uploads/2022/08/Logo_PB40_pos_RGB.jpg)
-![alt text](https://planen-bauen40.de/wp-content/uploads/2019/09/logo@2x.png)
+![alt text](https://planen-bauen40.de/wp-content/uploads/2021/01/Logo_PB40_small.png)
+![alt text](https://www.cibw78-ldac-2021.lu/fileadmin/files/Images/1_BIM-logo03a.png)
 
 # BIM_SPEED-BIM_Passport
 ## BIM Passport
