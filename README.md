@@ -1,4 +1,4 @@
-<img src='https://planen-bauen40.de/wp-content/uploads/2021/01/Logo_PB40_small.png' width='25'><img src='https://www.cibw78-ldac-2021.lu/fileadmin/files/Images/1_BIM-logo03a.png' width='25'>
+<img src='https://planen-bauen40.de/wp-content/uploads/2021/01/Logo_PB40_small.png' width='250'><img src='https://www.cibw78-ldac-2021.lu/fileadmin/files/Images/1_BIM-logo03a.png' width='250'>
 # BIM_SPEED-BIM_Passport
 ## BIM Passport
 The BIM Passport is a comprehensive tool for managing and improving buildings. This open-source data repository contains the deliverable BIM Passport report, which includes evaluations of the building's maturity, compliance with BIM Modeling guidelines and standards, and compliance with relevant ontologies specifications. The evaluations were based on a set of criteria and scores were assigned for each criterion. The scores were then used to determine the overall maturity level, compliance level, and compliance with relevant ontologies specifications of the building passport.
