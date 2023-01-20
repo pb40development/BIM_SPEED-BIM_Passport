@@ -1,3 +1,6 @@
+![alt text](https://www.4builders.net/wp-content/uploads/2022/08/Logo_PB40_pos_RGB.jpg)
+![alt text](https://planen-bauen40.de/wp-content/uploads/2019/09/logo@2x.png)
+
 # BIM_SPEED-BIM_Passport
 ## BIM Passport
 The BIM Passport is a comprehensive tool for managing and improving buildings. This open-source data repository contains the deliverable BIM Passport report, which includes evaluations of the building's maturity, compliance with BIM Modeling guidelines and standards, and compliance with relevant ontologies specifications. The evaluations were based on a set of criteria and scores were assigned for each criterion. The scores were then used to determine the overall maturity level, compliance level, and compliance with relevant ontologies specifications of the building passport.
